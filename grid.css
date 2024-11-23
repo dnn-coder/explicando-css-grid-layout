@@ -7,7 +7,7 @@
     padding: 10px;
 }
 
-/* Tablets */
+/* Movil */
 
 @media(min-width: 576px) {
     .row {
@@ -64,6 +64,8 @@
     }
 }
 
+/* Tablets */
+
 @media(min-width: 768px) {
     .row {
         display: flex;
@@ -119,6 +121,8 @@
     }
 }
 
+/* Desktop */
+
 @media(min-width: 992px) {
     .row {
         display: flex;
@@ -172,6 +176,8 @@
         width: 100%;
     }
 }
+
+/* Desktop Exta large*/
 @media(min-width: 1200px) {
     .row {
         display: flex;
